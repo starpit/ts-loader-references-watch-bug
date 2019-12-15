@@ -1,0 +1,8 @@
+{
+  "extends": "./common/tsconfig-base.json",
+  "references": [
+    {
+      "path": "plugins/whereismymind"
+    }
+  ]
+}
